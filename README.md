@@ -1,6 +1,6 @@
 # Hi, I'm Akila 👋
 
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![visitors](https://komarev.com/ghpvc/?username=akila20040720)
 
 ## About me
 - 🔭 I'm building front-end, web apps, and small tools.
@@ -10,8 +10,7 @@
 ---
 
 ## Latest work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=your-repo)](https://github.com/YOUR_USERNAME/your-repo)
 
-![profile-graphic](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-➡️ Visit my interactive portfolio: **https://YOUR_USERNAME.github.io**
+➡️ Visit my interactive portfolio: **https://akila20040720.github.io/akila-wijerama/portfolio.html**
+
