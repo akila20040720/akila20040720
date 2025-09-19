@@ -1,7 +1,7 @@
 # Hi, I'm Akila 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="coding-gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh6eW1rY3M0emFxNzJpbmdodmRrYmlvNHFzOThpZHEzbzh5eGFsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding-gif"/>
 </p>
 
 ---
@@ -47,4 +47,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="coding animation"/>
 </p>
+
 
