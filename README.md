@@ -7,10 +7,10 @@
 ---
 
 ## About me  
-- 🔭 I'm building **front-end, web apps, and small tools**  
-- 💬 Ask me about **React, JS, and UI designs**  
-- ⚡ Fun project: **interactive portfolio** — see below  
-- 💳 Check Out! **My ongoing Bank APP project ⬇**  
+- 🔭 I'm building **back-end, ML Projects, Data Analytics platforms**  
+- 💬 Ask me about **Machine Learning, Data Science and Automations**  
+- ⚡ fun project: **Vehicle price prediction** — see below  
+
 
 ---
 
